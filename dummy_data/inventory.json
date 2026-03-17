@@ -1,0 +1,11 @@
+{
+  "last_updated": "2024-06-01",
+  "warehouse": "東京倉庫",
+  "products": [
+    {"id":"P001","name":"ノートPC 15インチ","sku":"NPC-15-001","category":"コンピュータ","stock":24,"min_stock":10,"price":120000,"supplier":"テックサプライ株式会社"},
+    {"id":"P002","name":"ワイヤレスマウス","sku":"MSE-WL-002","category":"周辺機器","stock":87,"min_stock":30,"price":2500,"supplier":"周辺機器商事"},
+    {"id":"P003","name":"メカニカルキーボード","sku":"KBD-MC-003","category":"周辺機器","stock":8,"min_stock":20,"price":8000,"supplier":"周辺機器商事"},
+    {"id":"P004","name":"4Kモニター 27インチ","sku":"MON-4K-004","category":"ディスプレイ","stock":15,"min_stock":10,"price":45000,"supplier":"ディスプレイプロ"},
+    {"id":"P005","name":"7ポートUSBハブ","sku":"HUB-7P-005","category":"周辺機器","stock":3,"min_stock":25,"price":3000,"supplier":"周辺機器商事"}
+  ]
+}
